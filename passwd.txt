@@ -1,1 +1,1 @@
-link /etc/hosts
+/etc/passwd
